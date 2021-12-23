@@ -15,9 +15,9 @@ Download the [Dribbblish](https://github.com/lunar-theme/spacetify/tree/main/Dri
 
 ## 🎨 How to apply the theme
 
-1. `spicetify config extensions dribbblish.js` Enable required extension.\
-2. `spicetify config current_theme Dribbblish color_scheme Lunar` Set theme and color scheme.\
-3. `spicetify config inject_css 1 replace_colors 1 overwrite_assets` Some required stuff for the theme to work.\
+1. `spicetify config extensions dribbblish.js` Enable required extension.
+2. `spicetify config current_theme Dribbblish color_scheme Lunar` Set theme and color scheme.
+3. `spicetify config inject_css 1 replace_colors 1 overwrite_assets` Some required stuff for the theme to work.
 4. `spicetify apply` or if its the first time you are doing this `spicetify backup apply`
 
 ## 👤 Author
